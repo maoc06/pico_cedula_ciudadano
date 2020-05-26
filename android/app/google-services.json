@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524688505639",
+    "firebase_url": "https://picocedula.firebaseio.com",
+    "project_id": "picocedula",
+    "storage_bucket": "picocedula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524688505639:android:84b38da69b7768af490702",
+        "android_client_info": {
+          "package_name": "com.example.pico_cedula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524688505639-3q6micjo71stbqepmig8g76o4drtsqqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6R6H13O2dutKgo1ruNSBKGRGEWwh1d58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524688505639-3q6micjo71stbqepmig8g76o4drtsqqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
